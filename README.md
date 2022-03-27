@@ -5,7 +5,7 @@
 In Urban areas Car parking is a big issue for public places. Due to the shortage of parking space, high traffic visitors face parking issues every day. To reduce these problems, build an automatic mobile app which can be connected with your vehicle via Bluetooth and will predict whether the nearby place is suitable for parking or not.
 <br><br>
 Develop an application which are further used for detecting the car parking is possible or not.
-Here the objectives are: -<br>
+Here the objectives are:
 1.	To detect whether the nearby place is suitable for parking your vehicle or not.<br>
 2.	If it is not given a sign for not parking and if it is suitable give a sign for parking.<br>
 
