@@ -16,7 +16,7 @@ Here the objectives are: -<br>
 ### Wireframe Document [Wireframe](https://drive.google.com/file/d/1HdUumrT5XRbBzjwCHBACAY2ZZoTu2uj1/view?usp=sharing)
 ### Linkedin post link [Linkedin](https://www.linkedin.com/posts/jayprakashbind_python-datascience-machinelearning-activity-6913792616874618880-85Xj?utm_source=linkedin_share&utm_medium=member_desktop_web) 
 
-### Demo video [Demo video link](https://drive.google.com/file/d/1fXi64PSjmIG92mPVpTVILaIfwazYAPi0/view?usp=sharing) 
+### Demo video [Demo video link](https://drive.google.com/file/d/1STPhNAZ5l80t5VpoWn4wGpI3A1846rcy/view?usp=sharing) 
 
 ## Installation
 
