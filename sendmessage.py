@@ -32,6 +32,7 @@ def checkParkingSpace(imgPro, img):
     return spaceCounter
 
 def send_massage_to_mobile(parking):
+    #Auth token is automatically changed whenever i put all code on github
     # Twilio config
     twilio_account_sid = 'ACe37f637ff73b9d4c07701d1c4277b82c'
     twilio_auth_token = 'f009806d15033f3c5ef101cbe76e33fd'
